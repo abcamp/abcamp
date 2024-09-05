@@ -1,5 +1,6 @@
-## Hi, I'm Amber 🙋🏻‍♀️ I
-am Linguist and Data Scientist at [Chaminade University of Honolulu](https://chaminade.edu)'s [Data Science, Visualization, and Analytics Program](https://chaminade.edu/nsm/data-science/)
+## Hi, I'm Amber 🙋🏻‍♀️ 
+I am Linguist and Data Scientist at [Chaminade University of Honolulu](https://chaminade.edu) in the [Data Science, Visualization, and Analytics Program](https://chaminade.edu/nsm/data-science/)
+
 
 
 <!--
