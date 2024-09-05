@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Amber 🙋🏻‍♀️ I
+am Linguist and Data Scientist at [Chaminade University of Honolulu](https://chaminade.edu)'s [Data Science, Visualization, and Analytics Program](https://chaminade.edu/nsm/data-science/)
+
 
 <!--
 **abcamp/abcamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
